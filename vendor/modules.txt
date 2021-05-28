@@ -23,6 +23,12 @@ github.com/mitchellh/mapstructure
 # github.com/pelletier/go-toml v1.9.1
 ## explicit
 github.com/pelletier/go-toml
+# github.com/rs/zerolog v1.22.0
+## explicit
+github.com/rs/zerolog
+github.com/rs/zerolog/internal/cbor
+github.com/rs/zerolog/internal/json
+github.com/rs/zerolog/log
 # github.com/spf13/afero v1.6.0
 ## explicit
 github.com/spf13/afero

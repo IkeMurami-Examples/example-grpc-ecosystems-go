@@ -4,11 +4,16 @@
 # Поэтапно
 
 ## Init
+
 Для создания CLI и поддержки конфигов
 ```
 go get -u github.com/spf13/cobra
 go get -u github.com/spf13/viper
 ```
 
+Для умного логирования
+```
+go get -u github.com/rs/zerolog
+```
 
 ## 
