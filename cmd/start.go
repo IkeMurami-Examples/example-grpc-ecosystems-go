@@ -3,10 +3,11 @@ package cmd
 import (
 	"context"
 	"fmt"
-	"github.com/spf13/cobra"
-	"github.com/spf13/viper"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
+	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
+	start "github.com/z3f1r/grpc-ecosystems-example/pkg/cmd/example"
 	"os"
 )
 
